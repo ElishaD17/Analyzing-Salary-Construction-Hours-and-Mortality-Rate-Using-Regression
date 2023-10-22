@@ -53,10 +53,8 @@ Row	Education	Experience	Age	Salary
 ## Results
 graph showing 95% prediction interval bands
  ![a](9.png)
- ![be](11.png)
- 
  ![ec](10.png)
-
+ 
 - Developed regression equations to understand the relationships in different datasets.
 - Computed confidence intervals for predictions to understand the range of possible outcomes.
 - Analyzed factors like the market value of an MBA degree, the impact of a fire on construction hours, and the relationship between age and mortality rate.
