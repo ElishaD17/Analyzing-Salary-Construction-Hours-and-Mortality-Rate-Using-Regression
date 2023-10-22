@@ -51,6 +51,11 @@ Row	Education	Experience	Age	Salary
    - Plot graphs as required to understand relationships and trends.
 
 ## Results
+graph showing 95% prediction interval bands
+ ![a](9.png)
+ ![be](11.png)
+ 
+ ![ec](10.png)
 
 - Developed regression equations to understand the relationships in different datasets.
 - Computed confidence intervals for predictions to understand the range of possible outcomes.
